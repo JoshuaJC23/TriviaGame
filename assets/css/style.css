@@ -12,3 +12,13 @@ body {
     font-variant: small-caps;
 }
 
+#begin {
+    box-shadow: 5px 5px 10px 3px greenyellow, 10px 10px 15px 5px orangered;
+}
+
+#submit {
+    font-family: serif;
+    font-variant: small-caps;
+    font-size: 20px;
+    box-shadow: 5px 5px 10px 3px orangered inset, 10px 10px 15px 5px greenyellow inset;
+}
