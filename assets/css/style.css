@@ -1,4 +1,8 @@
 body {
     background-image: url("../images/The-Polar-Express-700x394.jpg");
-    background-position: center;
+    background-size: cover;
+}
+
+.jumbotron {
+    margin-top: 120px;
 }
