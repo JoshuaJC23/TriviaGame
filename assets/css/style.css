@@ -5,4 +5,10 @@ body {
 
 .jumbotron {
     margin-top: 120px;
+    background-color: green;
+    color: red;
+    font-style: oblique;
+    font-family: serif;
+    font-variant: small-caps;
 }
+
